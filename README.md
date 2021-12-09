@@ -1,3 +1,5 @@
 # tic-tak-toe
 
-< img src=screenshot (25).png>
+<img src=1.png>
+<img src=3.png>
+<img src=2.png>
