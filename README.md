@@ -1,10 +1,10 @@
 # tic-tak-toe
-
-
-<h3>Let's Begin some Cool Stuff!
+# Let's Begin some Cool Stuff!
 <img src=1.png>
-  AND that's how to have to start yhe game
+  
+ # AND that's how to have to start the game<br><br>
 <img src=3.png>
-  CONGO, You won the game!
+
+
+  # CONGO, You won the game!<br><br>
 <img src=2.png>
-  </h3>
