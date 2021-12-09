@@ -1,4 +1,4 @@
-# tic-tak-toe
+# Tic Tac Toe Game using Python
 # Let's Begin some Cool Stuff!
 <img src=1.png>
   
